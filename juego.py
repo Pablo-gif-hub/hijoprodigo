@@ -5,7 +5,7 @@
 # dignidad = 50
 # hambre = 0
 
-# print(f"{nombre} ha recibido su herencia") #100
+# print(f"{nombre} ha recibido su herencia por parte del padre") #100
 # print ("Que desea hacer con su herencia?")
 # print ("1. Gastarlo todo en fiestas")
 # print ("2. Invertir")
