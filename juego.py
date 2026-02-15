@@ -81,7 +81,7 @@ class HijoProdigo :
 
 jugador =  HijoProdigo(input("Ingrese su nombre: "))      #guardar lo que se escribe
 
-print(f"{jugador.nombre} ha recibido su herencia") #100            
+print(f"{jugador.nombre} ha recibido su herencia del padre") #100            
 print(f"Dispone de este monto: {jugador.dinero}")
 print(f"Incia con una dignidad de : {jugador.dignidad}")
 print(f"Incia con un hambre de : {jugador.hambre}")                
