@@ -105,4 +105,4 @@ elif opcion == 2:
 elif opcion == 3:
     jugador.ahorrar()
 else:
-    print("Esta opcion es invalida")   
+    print("Esta opcion no es correcto")   
