@@ -1,4 +1,4 @@
-# #hijo prodigo
+# #hijo prodigos
 # nombre = input("Ingrese su nombre: ") #guardar lo que se escribe
 # #variables
 # dinero = 100
